@@ -5,10 +5,8 @@ path="./data/exp1/"
 modpath="./modify/exp1/"
 
 HAND_UP=-5
-char_fout=open("character1.csv","w")
-char_fout.write("char, time, pressure, rel_pressure, prev, rel_prev, user, group, id, \n")
-delete_fout=open("delete.csv","w")
-delete_fout.write("user, group, time,\n")
+char_fout=open("912_mod.csv","w")
+# char_fout.write("target,begin, end, pressure, user, group, id, is_first, \n")
 lines=[]
 
 def modify1(file,name):
@@ -67,20 +65,17 @@ def write_data1( name):
 			i+=1
 		p=length-1
 		index=2
+		is_first=False
 		for k in range(length):
 			if group[p]==1:#写delete表
-				delete_fout.write(user+", "+str(group[p])+", "+str(end[p]-begin[p])+",\n")
 				p-=1
 				index+=1
 			else:
 				try:
-					prev=0
-					if index==2:
-						prev=-10
-					else:
-						prev=pressure[p+1]
+					if index==0:
+						is_first=True
 					if index<3:
-						char_fout.write(word[index]+", "+str(end[p]-begin[p])+", "+str(pressure[p])+", "+str(pressure[p]-ord(word[index])+ord('a'))+", "+str(prev)+", "+str(pressure[p]-prev)+", "+user+", "+str(group[p])+", "+str(number)+",\n")
+						char_fout.write(word[index]+","+str(begin[p])+","+str(end[p])+","+str(pressure[p])+","+user+","+str(group[p])+","+str(number)+","+str(is_first)+"\n")
 					p-=1
 					index-=1
 					if index==-1:
@@ -100,4 +95,3 @@ if __name__=="__main__":
 				write_data1(i)
 				print(i)
 	char_fout.close()
-	delete_fout.close()

@@ -1,0 +1,631 @@
+sentence,time,uncorrected,corrected,user,id,mode,reset,cut
+not quite so smart as you think,102.38869304099353,0,0,guyizheng_1473671271,1,char,False,False
+every apple from every tree,108.12235887499992,0,0,guyizheng_1473671271,2,char,False,False
+the protesters blocked all traffic,109.3904455830052,0,0,guyizheng_1473671271,3,char,False,False
+the punishment should fit the crime,125.4402591670223,0,0,guyizheng_1473671271,4,char,False,False
+do not feel too bad about it,106.10713991697412,0,0,guyizheng_1473671271,5,char,False,False
+this is a very good idea,103.75663991700276,0,0,guyizheng_1473671271,6,char,False,False
+have a good weekend,49.83512508298736,0,0,guyizheng_1473671271,7,char,False,False
+always cover all the bases,74.17008499999065,0,0,guyizheng_1473671271,8,char,False,False
+never mix religion and politics,100.27179649999016,0,0,guyizheng_1473671271,9,char,False,False
+express delivery is very fast,81.3873829160002,0,0,guyizheng_1473671271,10,char,False,False
+traveling to conferences is fun,140.45929412500118,0,0,guyizheng_1473671271,11,word,False,False
+question that must be answered,47.18649845800246,0,0,guyizheng_1473671271,12,word,False,False
+what goes up must come down,29.41856445799931,0,0,guyizheng_1473671271,13,word,False,False
+fish are jumping,22.26680287500494,0,0,guyizheng_1473671271,14,word,False,False
+love means many things,22.117475749982987,1,1,guyizheng_1473671271,15,word,False,False
+consequences of a wrong turn,39.05260933301179,0,0,guyizheng_1473671271,16,word,False,False
+what to do when the oil runs dry,55.502092917013215,0,0,guyizheng_1473671271,17,word,False,False
+can we play cards tonight,23.484746665984858,0,0,guyizheng_1473671271,18,word,False,False
+a quarter of a century,27.43507158299326,0,0,guyizheng_1473671271,19,word,False,False
+i can still feel your presence,44.90300279200892,0,1,guyizheng_1473671271,20,word,False,False
+with each step forward,40.51899612499983,0,0,guyizheng_1473671271,21,word,False,False
+prepare for the exam in advance,37.10238420899259,0,0,guyizheng_1473671271,22,word,False,False
+rent is paid at the beginning of the month,54.70363345902297,0,0,guyizheng_1473671271,23,word,False,False
+rain rain go away,23.716586249996908,0,0,guyizheng_1473671271,24,word,False,False
+my preferred treat is chocolate,40.885941500018816,0,0,guyizheng_1473671271,25,word,False,False
+the chamber makes important decisions,56.11981558302068,10,10,guyizheng_1473671271,26,word,False,False
+life is but a dream,35.534400250006,0,0,guyizheng_1473671271,27,word,False,False
+historic meeting without a result,42.23611637498834,0,0,guyizheng_1473671271,28,word,False,False
+that land is owned by the government,50.45315487499465,0,0,guyizheng_1473671271,29,word,False,False
+the chamber makes important decisions,41.83607145800488,0,0,guyizheng_1473671271,30,word,False,False
+with each step forward,22.451594832993578,0,0,guyizheng_1473671271,31,word,False,False
+the ventilation system is broken,75.85466933299904,0,8,guyizheng_1473671271,32,word,False,False
+just what the doctor ordered,53.97023216600064,0,0,guyizheng_1473671271,33,word,False,False
+an occasional taste of chocolate,45.10260754098999,0,0,guyizheng_1473671271,34,word,False,False
+teaching services will help,34.31917887501186,0,0,guyizheng_1473671271,35,word,False,False
+gun powder must be handled with care,49.2363537089841,0,0,guyizheng_1473671271,36,word,False,False
+the dow jones index has risen,35.967719332984416,0,0,guyizheng_1473671271,37,word,False,False
+rent is paid at the beginning of the month,49.68633370898897,0,0,guyizheng_1473671271,38,word,False,False
+a subject one can really enjoy,48.85322766599711,0,0,guyizheng_1473671271,39,word,False,False
+the dog buried the bone,39.701077042002,0,0,guyizheng_1473671271,40,word,False,False
+did you see that spectacular explosion,43.0200630830077,0,0,guyizheng_1473671271,41,word,False,False
+get aboard the ship is leaving,38.05203779201838,0,0,guyizheng_1473671271,42,word,False,False
+what to do when the oil runs dry,52.402093500015326,0,0,guyizheng_1473671271,43,word,False,False
+the chamber makes important decisions,49.28636216701125,0,0,guyizheng_1473671271,44,word,False,False
+the food at this restaurant,29.03522766698734,0,0,guyizheng_1473671271,45,word,False,False
+do you like to shop on sunday,36.76908520801226,0,0,guyizheng_1473671271,46,word,False,False
+he is still on our team,25.251552624977194,0,0,guyizheng_1473671271,47,word,False,False
+an offer you cannot refuse,26.95182695798576,0,0,guyizheng_1473671271,48,word,False,False
+the location of the crime,25.9683013750182,0,0,guyizheng_1473671271,49,word,False,False
+the world is a stage,17.901279209007043,0,0,guyizheng_1473671271,50,word,False,False
+the punishment should fit the crime,54.55402375000995,0,0,guyizheng_1473671271,51,word,False,False
+a problem with the engine,29.401857249991735,0,0,guyizheng_1473671271,52,word,False,False
+fish are jumping,21.718075584009057,0,0,guyizheng_1473671271,53,word,False,False
+a fox is a very smart animal,53.370291666011326,0,1,guyizheng_1473671271,54,word,False,False
+express delivery is very fast,33.43541204198846,1,1,guyizheng_1473671271,55,word,False,False
+sign the withdrawal slip,52.16998124998645,0,0,guyizheng_1473671271,56,word,False,False
+gun powder must be handled with care,36.03446558301221,0,0,guyizheng_1473671271,57,word,False,False
+play it again sam,18.300908042001538,0,0,guyizheng_1473671271,58,word,False,False
+thank you for your help,25.73483041700092,0,0,guyizheng_1473671271,59,word,False,False
+a fox is a very smart animal,30.71887345900177,0,0,guyizheng_1473671271,60,word,False,False
+the music is better than it sounds,96.15521337502287,0,0,lixiaohan_1473762661,1,char,False,False
+not quite so smart as you think,93.87270033397363,0,0,lixiaohan_1473762661,2,char,False,False
+a good response to the question,90.62123387499014,0,0,lixiaohan_1473762661,3,char,False,False
+protect your environment,71.68796958299936,0,0,lixiaohan_1473762661,4,char,False,False
+hands on experience with a job,121.35668404199532,0,0,lixiaohan_1473762661,5,char,False,False
+no kissing in the library,65.55294345802395,0,0,lixiaohan_1473762661,6,char,False,False
+medieval times were very hard,89.8879045000067,0,0,lixiaohan_1473762661,7,char,False,False
+coalition governments never work,112.77281395898899,0,0,lixiaohan_1473762661,8,char,False,False
+find a nearby parking spot,230.44833904202096,0,1,lixiaohan_1473762661,9,word,False,False
+never too rich and never too thin,44.03484749997733,0,0,lixiaohan_1473762661,10,word,False,False
+the imagination of the nation,42.03552429101546,0,0,lixiaohan_1473762661,11,word,False,False
+you must be getting old,46.73644841599162,0,0,lixiaohan_1473762661,12,word,False,False
+the capital of our nation,25.93507891599438,0,0,lixiaohan_1473762661,13,word,False,False
+i am going to a music lesson,34.785533625021344,0,0,lixiaohan_1473762661,14,word,False,False
+my bare face in the wind,32.75098783397698,0,0,lixiaohan_1473762661,15,word,False,False
+this watch is too expensive,38.50248337499215,0,0,lixiaohan_1473762661,16,word,False,False
+do not say anything,26.151774250000017,0,0,lixiaohan_1473762661,17,word,False,False
+quit while you are ahead,36.318771000020206,0,0,lixiaohan_1473762661,18,word,False,False
+please provide your date of birth,62.38770041699172,0,0,lixiaohan_1473762661,19,word,False,False
+never too rich and never too thin,40.0174910420028,0,0,lixiaohan_1473762661,20,word,False,False
+only an idiot would lie in court,43.335041959013324,0,0,lixiaohan_1473762661,21,word,False,False
+a glance in the right direction,28.85173350002151,0,0,lixiaohan_1473762661,22,word,False,False
+you must be getting old,20.183261083002435,0,0,lixiaohan_1473762661,23,word,False,False
+gas bills are sent monthly,25.21822654202697,0,0,lixiaohan_1473762661,24,word,False,False
+we missed your birthday,23.91704016699805,0,0,lixiaohan_1473762661,25,word,False,False
+shall we play a round of cards,41.502384249994066,0,0,lixiaohan_1473762661,26,word,False,False
+you should visit a doctor,35.23569470900111,0,0,lixiaohan_1473762661,27,word,False,False
+i can still feel your presence,27.035104750015307,0,0,lixiaohan_1473762661,28,word,False,False
+play it again sam,24.733302125008777,0,0,lixiaohan_1473762661,29,word,False,False
+mary had a little lamb,30.717378250003094,0,0,lixiaohan_1473762661,30,word,False,False
+people blow their horn a lot,42.284805542003596,0,0,lixiaohan_1473762661,31,word,False,True
+the winner of the race,30.43489283300005,0,4,lixiaohan_1473762661,32,word,False,False
+win first prize in the contest,35.202199916006066,0,0,lixiaohan_1473762661,33,word,False,False
+what you see is what you get,45.60276833400712,0,0,lixiaohan_1473762661,34,word,False,False
+the water was monitored daily,33.48426491700229,0,0,lixiaohan_1473762661,35,word,False,False
+taking the train is usually faster,38.38563412500662,0,0,lixiaohan_1473762661,36,word,False,False
+the force is with you,20.668416792002972,0,0,lixiaohan_1473762661,37,word,False,False
+get your priorities in order,28.233945291984128,0,0,lixiaohan_1473762661,38,word,False,False
+parking tickets can be challenged,35.65235712501453,0,0,lixiaohan_1473762661,39,word,False,False
+parking lot is full of trucks,29.318655624985695,0,0,lixiaohan_1473762661,40,word,False,False
+the children are playing,29.651851375005208,0,5,lixiaohan_1473762661,41,word,False,False
+olympic athletes use drugs,26.53587870800402,0,0,lixiaohan_1473762661,42,word,False,False
+do not feel too bad about it,28.399969666003017,0,1,lixiaohan_1473762661,43,word,False,False
+every apple from every tree,23.901592874986818,0,0,lixiaohan_1473762661,44,word,False,False
+completely sold out of that,26.21695966599509,0,0,lixiaohan_1473762661,45,word,False,False
+are you talking to me,32.05206433299463,0,0,lixiaohan_1473762661,46,word,False,False
+the accident scene is a shrine for fans,38.45257500000298,0,0,lixiaohan_1473762661,47,word,False,False
+be persistent to win a strike,33.368684207991464,0,0,lixiaohan_1473762661,48,word,False,False
+taking the train is usually faster,42.85086891602259,0,0,lixiaohan_1473762661,49,word,False,False
+i just cannot figure this out,27.266944000002695,0,0,lixiaohan_1473762661,50,word,False,False
+popularity is desired by all,108.9224624579947,1,1,pengchen_1473684028,1,char,False,False
+consequences of a wrong turn,196.2617455419968,0,0,pengchen_1473684028,2,char,False,False
+i cannot believe i ate the whole thing,138.65776229201583,0,0,pengchen_1473684028,3,char,False,False
+you should visit a doctor,99.72156729202834,0,0,pengchen_1473684028,4,char,False,False
+rapidly running short on words,117.40638483298244,0,0,pengchen_1473684028,5,char,False,False
+movie about a nutty professor,107.80566916702082,0,0,pengchen_1473684028,6,char,False,False
+my bare face in the wind,61.987478708004346,0,0,pengchen_1473684028,7,char,False,False
+bad for the environment,57.91896087498753,0,0,pengchen_1473684028,8,char,False,False
+do you like to go camping,176.87676316700527,0,0,pengchen_1473684028,9,word,False,False
+this person is a disaster,40.302450415998464,0,0,pengchen_1473684028,10,word,False,False
+protect your environment,58.520518750010524,0,0,pengchen_1473684028,11,word,False,False
+the rationale behind the decision,49.10325216699857,0,5,pengchen_1473684028,12,word,False,False
+the living is easy,20.38339575001737,0,0,pengchen_1473684028,13,word,False,True
+a much higher risk of getting cancer,60.787552374997176,0,0,pengchen_1473684028,14,word,False,False
+express delivery is very fast,38.30128045802121,0,0,pengchen_1473684028,15,word,False,False
+do you get nervous when you speak,68.6865904169972,0,0,pengchen_1473684028,16,word,False,False
+no kissing in the library,32.68392145799589,0,0,pengchen_1473684028,17,word,False,False
+we better investigate this,31.568726958008483,0,0,pengchen_1473684028,18,word,False,False
+i do not care if you do that,39.785730417002924,0,0,pengchen_1473684028,19,word,False,False
+we run the risk of failure,64.58752850000747,0,0,pengchen_1473684028,20,word,False,False
+for your information only,38.06892812499427,0,0,pengchen_1473684028,21,word,False,False
+all together in one big pile,50.70096449999255,0,1,pengchen_1473684028,22,word,False,False
+do not feel too bad about it,36.66885450002155,0,0,pengchen_1473684028,23,word,False,False
+i can play much better now,43.0026204159949,0,0,pengchen_1473684028,24,word,False,False
+the second largest country,31.985382124985335,0,0,pengchen_1473684028,25,word,False,False
+coalition governments never work,45.88598158300738,0,0,pengchen_1473684028,26,word,False,False
+electric cars need big fuel cells,43.55190637501073,0,0,pengchen_1473684028,27,word,False,False
+suburbs are sprawling up everywhere,48.95301545900293,0,0,pengchen_1473684028,28,word,False,False
+my favorite subject is psychology,43.75279150001006,0,0,pengchen_1473684028,29,word,False,False
+accompanied by an adult,25.58349795799586,0,0,pengchen_1473684028,30,word,False,False
+stay away from strangers,26.884031958004925,0,0,pengchen_1473684028,31,word,False,False
+we better investigate this,34.61785687500378,0,0,pengchen_1473684028,32,word,False,False
+just like it says on the can good,48.73675391697907,0,0,pengchen_1473684028,33,word,False,False
+the ventilation system is broken,35.202312292007264,0,0,pengchen_1473684028,34,word,False,False
+put garbage in an abandoned mine,37.85116900000139,0,0,pengchen_1473684028,35,word,False,False
+employee recruitment takes a lot of effort,67.85429070799728,0,1,pengchen_1473684028,36,word,False,False
+stiff penalty for staying out late,45.803025708999485,2,2,pengchen_1473684028,37,word,False,False
+hands on experience with a job,46.269485625001835,0,2,pengchen_1473684028,38,word,False,False
+this equation is too complicated,37.852517499995884,0,0,pengchen_1473684028,39,word,False,False
+historic meeting without a result,35.9189914999879,0,0,pengchen_1473684028,40,word,False,False
+a quarter of a century,33.15226062500733,0,0,pengchen_1473684028,41,word,False,False
+thank you for your help,25.584995459008496,0,0,pengchen_1473684028,42,word,False,False
+everyone wants to win the lottery,37.90263166700606,0,0,pengchen_1473684028,43,word,False,False
+toss the ball around,28.718631166004343,0,0,pengchen_1473684028,44,word,False,False
+valid until the end of the year,32.55224054201972,0,0,pengchen_1473684028,45,word,False,False
+the punishment should fit the crime,50.57002066698624,0,3,pengchen_1473684028,46,word,False,False
+win first prize in the contest,47.31840374998865,0,1,pengchen_1473684028,47,word,False,False
+i can still feel your presence,41.269502124981955,1,1,pengchen_1473684028,48,word,False,False
+play it again sam,19.38342279099743,0,0,pengchen_1473684028,49,word,False,False
+we better investigate this,33.734062500006985,3,3,pengchen_1473684028,50,word,False,False
+not quite so smart as you think,44.06941804199596,0,0,pengchen_1473684028,51,word,False,False
+a quarter of a century,21.418070667015854,0,0,pengchen_1473684028,52,word,False,False
+do not drink the water,41.91956025001127,0,3,pengchen_1473684028,53,word,False,False
+do not worry about this,24.51678754200111,0,0,pengchen_1473684028,54,word,False,False
+the sum of the parts,33.20204741699854,0,4,pengchen_1473684028,55,word,False,False
+the first time he tried to swim,41.917945833993144,0,0,pengchen_1473684028,56,word,False,False
+traveling requires a lot of fuel,59.135899207991315,0,0,pengchen_1473684028,57,word,False,False
+construction makes traveling difficult,39.93578241701471,0,0,pengchen_1473684028,58,word,False,False
+the bathroom is good for reading,75.02023654102231,0,1,shiweinan _1473757151,1,char,True,False
+this leather jacket is too warm,71.8865780000051,0,1,shiweinan _1473757151,2,char,False,False
+players must know all the rules,72.01976429199567,0,0,shiweinan _1473757151,3,char,False,False
+are you talking to me,49.05144399998244,0,0,shiweinan _1473757151,4,char,False,False
+toss the ball around,40.95139908400597,0,0,shiweinan _1473757151,5,char,False,False
+the chancellor was very boring,66.55274670798099,0,0,shiweinan _1473757151,6,char,False,False
+bad for the environment,54.90232237501186,1,1,shiweinan _1473757151,7,char,False,False
+jumping right out of the water,64.66977158299414,0,0,shiweinan _1473757151,8,char,False,False
+so you think you deserve a raise,214.99741629199707,0,2,shiweinan _1473757151,9,word,False,False
+call for more details,17.74993049999466,0,0,shiweinan _1473757151,10,word,False,False
+the water was monitored daily,36.23448295801063,0,0,shiweinan _1473757151,11,word,False,False
+coming up with killer sound bites,31.000741833006032,0,0,shiweinan _1473757151,12,word,True,False
+machinery is too complicated,35.36772545799613,0,0,shiweinan _1473757151,13,word,False,False
+the ventilation system is broken,36.11774558297475,0,0,shiweinan _1473757151,14,word,True,False
+space is a high priority,22.433613417000743,0,0,shiweinan _1473757151,15,word,False,False
+do not feel too bad about it,27.250305084016873,0,0,shiweinan _1473757151,16,word,False,False
+that land is owned by the government,39.96787175000645,0,0,shiweinan _1473757151,17,word,True,False
+the children are playing,24.534824208007194,0,0,shiweinan _1473757151,18,word,False,False
+prescription drugs require a note,46.83673333298066,0,0,shiweinan _1473757151,19,word,False,False
+beautiful paintings in the gallery,31.08365587500157,0,0,shiweinan _1473757151,20,word,False,False
+he is still on our team,19.667686874978244,0,0,shiweinan _1473757151,21,word,False,False
+if you come home late the doors are locked,53.47008683299646,0,0,shiweinan _1473757151,22,word,False,False
+please try to be home before midnight,34.352302209008485,0,0,shiweinan _1473757151,23,word,True,False
+the bus was very crowded,31.18533229199238,0,0,shiweinan _1473757151,24,word,False,False
+fall is my favorite season,25.033085458009737,0,0,shiweinan _1473757151,25,word,False,False
+this equation is too complicated,31.751746291993186,0,0,shiweinan _1473757151,26,word,False,False
+toss the ball around,32.13536924999789,0,1,shiweinan _1473757151,27,word,False,False
+it should be sunny tomorrow,25.468277834006585,0,0,shiweinan _1473757151,28,word,False,False
+a subject one can really enjoy,27.885079041006975,0,0,shiweinan _1473757151,29,word,False,False
+love means many things,19.984554708003998,0,1,shiweinan _1473757151,30,word,False,False
+i cannot believe i ate the whole thing,44.61828824999975,0,0,shiweinan _1473757151,31,word,True,False
+beautiful paintings in the gallery,31.218728832987836,0,0,shiweinan _1473757151,32,word,False,False
+this library has many books,22.65048124999157,0,0,shiweinan _1473757151,33,word,False,False
+what a lovely red jacket,36.301948542008176,0,0,shiweinan _1473757151,34,word,False,False
+you will loose your voice,23.501151250005933,0,0,shiweinan _1473757151,35,word,False,False
+the sum of the parts,21.550195082993014,0,0,shiweinan _1473757151,36,word,False,False
+soon we will return from the city,30.35023262500181,0,0,shiweinan _1473757151,37,word,False,False
+do you prefer a window seat,24.251516666990938,0,0,shiweinan _1473757151,38,word,False,False
+you must be getting old,19.23403095800313,0,0,shiweinan _1473757151,39,word,False,False
+it is difficult to concentrate,27.268534000002546,0,1,shiweinan _1473757151,40,word,False,False
+my preferred treat is chocolate,32.952216415986186,0,0,shiweinan _1473757151,41,word,False,False
+have a good weekend,24.218301416985923,0,0,shiweinan _1473757151,42,word,False,False
+always cover all the bases,23.63476287497906,0,0,shiweinan _1473757151,43,word,False,False
+so you think you deserve a raise,37.01893354198546,0,0,shiweinan _1473757151,44,word,False,False
+always cover all the bases,26.017144000012195,0,0,shiweinan _1473757151,45,word,False,False
+a problem with the engine,19.667790042003617,0,0,shiweinan _1473757151,46,word,True,False
+jumping right out of the water,26.38468987500528,0,0,shiweinan _1473757151,47,word,False,False
+gun powder must be handled with care,37.90269512499799,0,0,shiweinan _1473757151,48,word,False,False
+the location of the crime,72.73620983300498,0,0,wangqian_1473752794,1,char,False,False
+never too rich and never too thin,90.65458545798901,0,1,wangqian_1473752794,2,char,False,False
+most judges are very honest,74.1533159170067,0,0,wangqian_1473752794,3,char,False,False
+a subject one can really enjoy,80.10533250001026,0,0,wangqian_1473752794,4,char,False,False
+apartments are too expensive,71.46998145800899,0,0,wangqian_1473752794,5,char,False,False
+what you see is what you get,78.75397070898907,0,0,wangqian_1473752794,6,char,False,False
+we better investigate this,66.31991062499583,0,0,wangqian_1473752794,7,char,False,False
+all together in one big pile,76.32178041699808,0,0,wangqian_1473752794,8,char,False,False
+breathing is difficult,23.551594208023744,0,0,wangqian_1473752794,9,word,True,False
+time to go shopping,17.101091292017372,0,0,wangqian_1473752794,10,word,False,True
+staying up all night is a bad idea,32.63534120799159,0,0,wangqian_1473752794,11,word,False,False
+safe to walk the streets in the evening,49.05312270799186,1,1,wangqian_1473752794,12,word,False,False
+he is still on our team,27.667103666986804,0,0,wangqian_1473752794,13,word,False,False
+the library is closed today,24.90175150000141,0,0,wangqian_1473752794,14,word,False,False
+a fox is a very smart animal,42.01913699999568,0,0,wangqian_1473752794,15,word,False,False
+the power of denial,16.334298417001264,0,0,wangqian_1473752794,16,word,False,False
+soon we will return from the city,34.31756758299889,0,0,wangqian_1473752794,17,word,False,False
+did you have a good time,20.78436162500293,0,0,wangqian_1473752794,18,word,False,False
+that land is owned by the government,36.56909562498913,0,0,wangqian_1473752794,19,word,False,False
+the bus was very crowded,21.31813550001243,0,0,wangqian_1473752794,20,word,False,False
+do not walk too quickly,40.16803258302389,0,0,wangqian_1473752794,21,word,False,False
+i do not care if you do that,23.368126832996495,0,0,wangqian_1473752794,22,word,False,False
+world population is growing,25.00165720799123,0,0,wangqian_1473752794,23,word,False,False
+user friendly interface,24.8515694590169,0,0,wangqian_1473752794,24,word,False,False
+we better investigate this,19.183345249999547,0,0,wangqian_1473752794,25,word,False,False
+she wears too much makeup,28.80149425001582,0,0,wangqian_1473752794,26,word,False,False
+i can still feel your presence,33.58522491599433,0,0,wangqian_1473752794,27,word,False,False
+the registration period is over,37.418884208018426,0,1,wangqian_1473752794,28,word,False,False
+you will loose your voice,26.168037583003752,0,0,wangqian_1473752794,29,word,False,False
+this library has many books,28.61842537499615,2,2,wangqian_1473752794,30,word,False,False
+go out for some pizza and beer,28.735104042018065,0,0,wangqian_1473752794,31,word,False,False
+pay off a mortgage for a house,25.768248415988637,0,0,wangqian_1473752794,32,word,False,False
+so you think you deserve a raise,29.25198079200345,0,0,wangqian_1473752794,33,word,False,False
+what goes up must come down,27.98479099999531,0,0,wangqian_1473752794,34,word,False,False
+the trains are always late,23.284726458019577,0,0,wangqian_1473752794,35,word,False,False
+rain rain go away,21.33347754200804,0,0,wangqian_1473752794,36,word,False,False
+important for political parties,31.65190712499316,0,0,wangqian_1473752794,37,word,False,False
+the first time he tried to swim,39.085264875000576,0,0,wangqian_1473752794,38,word,False,False
+do you prefer a window seat,28.46846837500925,0,0,wangqian_1473752794,39,word,False,False
+well connected with people,29.352014457981568,0,0,wangqian_1473752794,40,word,False,False
+time to go shopping,17.55113620799966,0,0,wangqian_1473752794,41,word,False,False
+the postal service is very slow,28.818690999993123,0,0,wangqian_1473752794,42,word,False,False
+the location of the crime,23.35159095801646,0,0,wangqian_1473752794,43,word,False,False
+get your priorities in order,28.58516604200122,0,0,wangqian_1473752794,44,word,False,False
+the bathroom is good for reading,30.83541229198454,0,3,wangqian_1473752794,45,word,False,False
+you must be getting old,19.067726167006185,0,0,wangqian_1473752794,46,word,False,False
+effort is what it will take,27.251735166995786,0,0,wangqian_1473752794,47,word,False,False
+learn to walk before you run,37.152575332991546,0,0,wangqian_1473752794,48,word,False,False
+they might find your comment offensive,90.00593591702636,10,13,xuxuhai_1473732119,1,char,False,False
+the acceptance speech was boring,96.55518933298299,0,0,xuxuhai_1473732119,2,char,False,False
+only an idiot would lie in court,96.92161970800953,0,0,xuxuhai_1473732119,3,char,False,False
+my bike has a flat tire,71.87041466697701,0,0,xuxuhai_1473732119,4,char,False,False
+rapidly running short on words,94.45452904098784,0,0,xuxuhai_1473732119,5,char,False,False
+insurance is important for bad drivers,91.37125066600856,8,8,xuxuhai_1473732119,6,char,False,False
+i like to play tennis,61.45407533401158,0,0,xuxuhai_1473732119,7,char,False,False
+taking the train is usually faster,93.27301337500103,0,0,xuxuhai_1473732119,8,char,False,False
+a good joke deserves a good laugh,162.79397045899532,0,15,xuxuhai_1473732119,9,word,False,False
+please provide your date of birth,64.4876577090181,0,0,xuxuhai_1473732119,10,word,False,False
+obligations must be met first,31.817301708011655,0,0,xuxuhai_1473732119,11,word,False,False
+interactions between men and women,54.28654116697726,0,0,xuxuhai_1473732119,12,word,False,False
+a correction had to be published,43.652853875013534,0,1,xuxuhai_1473732119,13,word,False,False
+the minimum amount of time,31.468552499980433,4,5,xuxuhai_1473732119,14,word,False,False
+medieval times were very hard,43.23617300001206,0,3,xuxuhai_1473732119,15,word,False,False
+you must be getting old,25.918040415999712,0,1,xuxuhai_1473732119,16,word,False,False
+gun powder must be handled with care,53.1203674999997,0,2,xuxuhai_1473732119,17,word,False,False
+where can my little dog be,32.18550787499407,0,5,xuxuhai_1473732119,18,word,False,False
+my favorite place to visit,36.71802583298995,0,0,xuxuhai_1473732119,19,word,False,False
+where did you get such a silly idea,58.087036207987694,0,1,xuxuhai_1473732119,20,word,False,False
+the sum of the parts,30.252019499981543,0,0,xuxuhai_1473732119,21,word,False,False
+i can still feel your presence,21.351342167006806,0,0,xuxuhai_1473732119,22,word,False,False
+the collapse of the roman empire,34.135390292009106,0,2,xuxuhai_1473732119,23,word,False,False
+my car always breaks in the winter,44.63656675000675,0,0,xuxuhai_1473732119,24,word,False,False
+if at first you do not succeed,34.28565887501463,0,0,xuxuhai_1473732119,25,word,False,False
+my mother makes good cookies,36.5021330830059,0,2,xuxuhai_1473732119,26,word,False,False
+work hard to reach the summit,40.95223929200438,0,0,xuxuhai_1473732119,27,word,False,False
+just what the doctor ordered,32.71892608399503,0,0,xuxuhai_1473732119,28,word,False,False
+do you prefer a window seat,32.13396054098848,0,0,xuxuhai_1473732119,29,word,False,False
+the cotton is high,32.81875608401606,0,7,xuxuhai_1473732119,30,word,False,False
+interesting observation was made,52.770139208005276,0,1,xuxuhai_1473732119,31,word,False,False
+stay away from strangers,29.868611792015145,0,0,xuxuhai_1473732119,32,word,False,False
+presidents drive expensive cars,44.16947783398791,1,2,xuxuhai_1473732119,33,word,False,False
+medieval times were very hard,27.21830166701693,1,1,xuxuhai_1473732119,34,word,False,False
+the winner of the race,25.00168566600769,0,0,xuxuhai_1473732119,35,word,False,True
+the treasury department is broke,38.184312541998224,0,1,xuxuhai_1473732119,36,word,False,False
+where did you get that tie,127.27634041602141,1,6,xuxuhai_1473732119,37,word,False,False
+win first prize in the contest,38.43581462500151,0,0,xuxuhai_1473732119,38,word,False,False
+can we play cards tonight,38.08552254200913,0,1,xuxuhai_1473732119,39,word,False,False
+the fourth edition was better,30.617355374997715,0,1,xuxuhai_1473732119,40,word,False,False
+the dog buried the bone,28.40055741701508,0,0,xuxuhai_1473732119,41,word,False,False
+you must be getting old,29.651834415999474,0,0,xuxuhai_1473732119,42,word,False,False
+the minimum amount of time,21.267506500007585,0,0,xuxuhai_1473732119,43,word,False,False
+exercise is good for the mind,40.018003499979386,0,0,xuxuhai_1473732119,44,word,False,False
+the registration period is over,50.41852429197752,0,0,xuxuhai_1473732119,45,word,False,False
+one heck of a question,20.467845790990395,0,0,xuxuhai_1473732119,46,word,False,False
+players must know all the rules,34.86764141599997,0,1,xuxuhai_1473732119,47,word,False,False
+we have enough witnesses,27.01835712499451,0,0,xuxuhai_1473732119,48,word,False,False
+exercise is good for the mind,31.334022042021388,0,0,xuxuhai_1473732119,49,word,False,False
+i do not fully agree with you,40.90213533298811,0,0,xuxuhai_1473732119,50,word,False,False
+questioning the wisdom of the courts,142.90803925000364,2,2,xwj_1473844944,1,char,False,False
+take a coffee break,46.3684973330237,0,0,xwj_1473844944,2,char,False,False
+the imagination of the nation,71.80471012496855,0,0,xwj_1473844944,3,char,False,False
+a good response to the question,77.08701037499122,0,0,xwj_1473844944,4,char,False,False
+this is a non profit organization,91.38796104199719,0,0,xwj_1473844944,5,char,False,False
+the punishment should fit the crime,101.57182224997086,1,2,xwj_1473844944,6,char,False,False
+communicate through email,73.25468170898966,0,0,xwj_1473844944,7,char,False,False
+accompanied by an adult,79.83702837495366,0,0,xwj_1473844944,8,char,False,False
+interactions between men and women,83.30546129203867,0,1,xwj_1473844944,9,word,True,False
+questioning the wisdom of the courts,91.10607254196657,1,3,xwj_1473844944,10,word,False,False
+he is still on our team,32.802409667056054,0,2,xwj_1473844944,11,word,True,True
+get aboard the ship is leaving,58.20372741704341,0,1,xwj_1473844944,12,word,False,False
+i like to play tennis,62.55300004099263,0,2,xwj_1473844944,13,word,True,False
+the fourth edition was better,49.56946483300999,0,0,xwj_1473844944,14,word,False,False
+win first prize in the contest,76.78841779200593,1,1,xwj_1473844944,15,word,True,False
+i will meet you at noon,52.96891537500778,1,1,xwj_1473844944,16,word,False,True
+sad to hear that news,30.635037457977887,0,0,xwj_1473844944,17,word,False,False
+protect your environment,31.91869449999649,0,0,xwj_1473844944,18,word,False,False
+what a lovely red jacket,40.46934916602913,0,5,xwj_1473844944,19,word,True,False
+very reluctant to enter,33.3019358330057,0,1,xwj_1473844944,20,word,False,False
+the presidential suite is very busy,41.15267537499312,0,0,xwj_1473844944,21,word,False,False
+i do not fully agree with you,40.534364000021014,0,0,xwj_1473844944,22,word,False,False
+do not worry about this,39.46933975000866,0,0,xwj_1473844944,23,word,False,True
+parking tickets can be challenged,34.50204695900902,0,0,xwj_1473844944,24,word,False,False
+a good joke deserves a good laugh,49.785308709018864,0,0,xwj_1473844944,25,word,False,False
+the sun rises in the east,35.95122437499231,0,0,xwj_1473844944,26,word,False,False
+the price of gas is high,22.66800174996024,0,1,xwj_1473844944,27,word,True,False
+sign the withdrawal slip,30.850743916002102,0,0,xwj_1473844944,28,word,True,False
+please take a bath this month,35.40246325003682,0,0,xwj_1473844944,29,word,False,False
+the dog will bite you,25.201677790959366,0,1,xwj_1473844944,30,word,False,True
+the accident scene is a shrine for fans,36.86793016694719,0,0,xwj_1473844944,31,word,False,False
+my car always breaks in the winter,31.784206708020065,0,0,xwj_1473844944,32,word,False,False
+do you get nervous when you speak,37.269104375038296,0,0,xwj_1473844944,33,word,False,False
+i like to play tennis,22.966761958028655,0,0,xwj_1473844944,34,word,False,False
+the quick brown fox jumped,24.28497958299704,0,1,xwj_1473844944,35,word,False,False
+parking tickets can be challenged,29.701860082976054,0,0,xwj_1473844944,36,word,False,False
+all work and no play,19.71629212499829,0,0,xwj_1473844944,37,word,False,False
+the sum of the parts,19.35137287498219,0,0,xwj_1473844944,38,word,False,False
+the cream rises to the top,24.368260791990906,0,0,xwj_1473844944,39,word,False,False
+question that must be answered,31.03544254199369,0,0,xwj_1473844944,40,word,True,False
+quit while you are ahead,20.701337500009686,0,0,xwj_1473844944,41,word,False,False
+the dog buried the bone,23.866902542009484,0,0,xwj_1473844944,42,word,False,False
+he underwent triple bypass surgery,47.68653629196342,0,0,xwj_1473844944,43,word,False,True
+my favorite web browser,22.401428540993948,0,0,xwj_1473844944,44,word,False,False
+one heck of a question,22.28612595802406,0,0,xwj_1473844944,45,word,True,False
+a much higher risk of getting cancer,37.78578104201006,0,0,xwj_1473844944,46,word,True,False
+what a monkey sees a monkey will do,35.802650000026915,0,4,xwj_1473844944,47,word,False,False
+sing the gospel and the blues,33.7843613330042,0,0,xwj_1473844944,48,word,False,False
+do not say anything,16.234190916991793,0,0,xwj_1473844944,49,word,False,False
+watch out for low flying objects,30.78535975003615,0,1,xwj_1473844944,50,word,False,False
+the location of the crime,102.9365164580231,0,3,yangtian_1473693203,2,char,False,False
+do not walk too quickly,73.68696904199896,0,0,yangtian_1473693203,1,char,False,False
+physics and chemistry are hard,117.27459716700832,0,3,yangtian_1473693203,2,char,False,True
+the power of denial,69.73675262500183,0,1,yangtian_1473693203,3,char,False,False
+i like baroque and classical music,104.57339849998243,0,0,yangtian_1473693203,4,char,False,False
+he is still on our team,55.98564429100952,0,0,yangtian_1473693203,5,char,False,False
+what you see is what you get,100.03884058300173,0,0,yangtian_1473693203,6,char,False,False
+gun powder must be handled with care,91.78803308302304,0,0,yangtian_1473693203,7,char,False,False
+the elevator door appears to be stuck,123.60663841699716,0,0,yangtian_1473693203,8,char,False,False
+we have enough witnesses,105.57374445800087,0,1,yangtian_1473693203,9,word,False,False
+nothing wrong with his style,47.8196822500031,0,0,yangtian_1473693203,10,word,False,False
+do not drink the water,29.100490999990143,0,0,yangtian_1473693203,11,word,False,False
+a problem with the engine,40.817880540998885,0,0,yangtian_1473693203,12,word,False,False
+what a monkey sees a monkey will do,54.952332208980806,0,0,yangtian_1473693203,13,word,False,False
+the world is a stage,16.951278041990008,0,0,yangtian_1473693203,14,word,False,True
+the collapse of the roman empire,39.651302042009775,3,4,yangtian_1473693203,15,word,False,False
+learn to walk before you run,53.569868458027486,0,3,yangtian_1473693203,16,word,False,False
+vote according to your conscience,33.252634042000864,0,0,yangtian_1473693203,17,word,False,True
+hands on experience with a job,40.01955429100781,1,2,yangtian_1473693203,18,word,False,False
+these cookies are so amazing,26.618287749995943,0,0,yangtian_1473693203,19,word,False,False
+an airport is a very busy place,42.95278550000512,0,4,yangtian_1473693203,20,word,False,False
+this camera takes nice photographs,33.78576104101376,0,0,yangtian_1473693203,21,word,False,False
+never too rich and never too thin,52.0018863749865,0,0,yangtian_1473693203,22,word,False,False
+get aboard the ship is leaving,41.76944858301431,0,0,yangtian_1473693203,23,word,False,False
+the acceptance speech was boring,44.119143708987394,0,0,yangtian_1473693203,24,word,False,False
+this camera takes nice photographs,65.60433154198108,10,11,yangtian_1473693203,25,word,False,False
+well connected with people,42.184688750014175,0,5,yangtian_1473693203,26,word,False,False
+take a coffee break,25.41705637497944,0,0,yangtian_1473693203,27,word,False,False
+a problem with the engine,45.83601437500329,0,7,yangtian_1473693203,28,word,False,False
+companies announce a merger,43.18576583400136,0,7,yangtian_1473693203,29,word,False,False
+questioning the wisdom of the courts,39.21926854099729,1,1,yangtian_1473693203,30,word,False,False
+what a lovely red jacket,27.501936040993314,0,0,yangtian_1473693203,31,word,False,False
+time to go shopping,15.950980499997968,0,0,yangtian_1473693203,32,word,False,False
+the objective of the exercise,40.13607262499863,0,0,yangtian_1473693203,33,word,False,False
+sing the gospel and the blues,43.75146491697524,0,0,yangtian_1473693203,34,word,False,False
+question that must be answered,30.601575041975593,0,0,yangtian_1473693203,35,word,False,False
+the opposing team is over there,31.635480500000995,0,0,yangtian_1473693203,36,word,False,False
+completely sold out of that,26.584977958002128,0,0,yangtian_1473693203,37,word,False,False
+toss the ball around,40.01925641699927,0,0,yangtian_1473693203,38,word,False,False
+the treasury department is broke,32.552103708992945,0,0,yangtian_1473693203,39,word,False,False
+electric cars need big fuel cells,24.967136582999956,0,0,yangtian_1473693203,41,word,True,False
+put garbage in an abandoned mine,30.31721516599646,0,0,yangtian_1473693203,42,word,False,False
+bad for the environment,23.800386334012728,0,0,yangtian_1473693203,43,word,False,False
+my bike has a flat tire,29.251971334015252,1,2,yangtian_1473693203,44,word,False,False
+win first prize in the contest,38.30143483300344,0,0,yangtian_1473693203,45,word,False,False
+pay off a mortgage for a house,46.703016875020694,0,1,yangtian_1473693203,46,word,False,False
+the most beautiful sunset,23.366862208989915,0,0,yangtian_1473693203,47,word,False,False
+what you see is what you get,33.750897833000636,0,0,yangtian_1473693203,48,word,False,False
+a much higher risk of getting cancer,37.90098979201866,0,0,yangtian_1473693203,49,word,False,False
+jumping right out of the water,28.78503883301164,0,0,yangtian_1473693203,50,word,False,False
+why do you ask silly questions,41.68613558402285,2,3,yangtian_1473693203,51,word,False,False
+experience is hard to come by,31.91842579198419,0,0,yangtian_1473693203,52,word,False,False
+can we play cards tonight,35.034436458023265,0,0,yangtian_1473693203,53,word,False,False
+elections bring out the best,27.717677875014488,1,1,yangtian_1473693203,54,word,False,False
+questioning the wisdom of the courts,35.067658624990145,0,0,yangtian_1473693203,55,word,False,False
+the dog buried the bone,22.18488862499362,0,0,yangtian_1473693203,56,word,False,False
+can we play cards tonight,24.951578124979278,0,0,yangtian_1473693203,57,word,False,False
+information super highway,28.401796541991644,0,0,yangtian_1473693203,58,word,False,False
+find a nearby parking spot,97.42281899999944,0,1,yangzhican_1473736360,1,char,False,False
+public transit is much faster,92.03803820800385,0,1,yangzhican_1473736360,2,char,False,False
+questioning the wisdom of the courts,109.35593462499673,1,1,yangzhican_1473736360,3,char,False,True
+do you like to shop on sunday,80.22056195899495,0,0,yangzhican_1473736360,4,char,False,False
+he underwent triple bypass surgery,74.71985020799912,8,8,yangzhican_1473736360,5,char,False,False
+user friendly interface,58.40509912499692,0,0,yangzhican_1473736360,6,char,False,False
+breathing is difficult,62.35264241701225,0,0,yangzhican_1473736360,7,char,False,False
+very reluctant to enter,78.0382639169984,0,0,yangzhican_1473736360,8,char,False,False
+never mix religion and politics,186.32891250000102,0,0,yangzhican_1473736360,9,word,False,False
+this person is a disaster,49.00184670899762,0,1,yangzhican_1473736360,10,word,False,False
+what a lovely red jacket,25.050417457998265,0,0,yangzhican_1473736360,11,word,False,False
+employee recruitment takes a lot of effort,47.11862866699812,0,0,yangzhican_1473736360,12,word,False,False
+rapidly running short on words,32.10218687498127,0,0,yangzhican_1473736360,13,word,False,False
+the collapse of the roman empire,46.01969645899953,0,8,yangzhican_1473736360,14,word,False,False
+the price of gas is high,22.801393458008533,0,0,yangzhican_1473736360,15,word,False,False
+i will put on my glasses,28.633876084000804,0,0,yangzhican_1473736360,16,word,False,False
+you want to eat your cake,42.867879500001436,0,1,yangzhican_1473736360,17,word,False,False
+valid until the end of the year,37.917649290990084,0,0,yangzhican_1473736360,18,word,False,False
+very reluctant to enter,31.685379416012438,0,0,yangzhican_1473736360,19,word,False,False
+you should visit a doctor,25.766985916998237,0,0,yangzhican_1473736360,20,word,False,False
+work hard to reach the summit,26.48489883300499,0,0,yangzhican_1473736360,21,word,False,False
+traveling to conferences is fun,33.702389040990965,0,0,yangzhican_1473736360,22,word,False,False
+we run the risk of failure,30.001875749992905,0,0,yangzhican_1473736360,23,word,False,False
+february has an extra day,22.983438749972265,0,0,yangzhican_1473736360,24,word,False,False
+physics and chemistry are hard,27.785181292012567,0,0,yangzhican_1473736360,25,word,False,False
+you want to eat your cake,44.08518041699426,0,1,yangzhican_1473736360,26,word,False,False
+do not lie in court or else,28.76717712500249,0,0,yangzhican_1473736360,27,word,False,False
+just in time for the party,55.92044733298826,0,1,yangzhican_1473736360,28,word,False,False
+the dog buried the bone,22.868094125005882,0,0,yangzhican_1473736360,29,word,False,False
+interesting observation was made,30.501931707985932,0,0,yangzhican_1473736360,30,word,False,False
+players must know all the rules,32.35195208300138,0,0,yangzhican_1473736360,31,word,False,False
+the most beautiful sunset,23.98351150000235,0,0,yangzhican_1473736360,32,word,False,False
+just what the doctor ordered,37.55228229201748,0,0,yangzhican_1473736360,33,word,False,False
+you are a wonderful example,31.585451166989515,0,1,yangzhican_1473736360,34,word,False,False
+is there any indication of this,39.01720262499293,0,0,yangzhican_1473736360,35,word,False,False
+i cannot believe i ate the whole thing,35.267721457988955,0,0,yangzhican_1473736360,36,word,False,False
+she wears too much makeup,27.000361417012755,0,0,yangzhican_1473736360,37,word,False,False
+please take a bath this month,27.168165125011,0,0,yangzhican_1473736360,38,word,False,False
+the generation gap gets wider,62.269425582984695,0,3,yangzhican_1473736360,39,word,False,False
+experience is hard to come by,25.684943708998617,0,0,yangzhican_1473736360,40,word,False,False
+you should visit a doctor,50.96887670800788,0,1,yangzhican_1473736360,41,word,False,False
+file all complaints in writing,24.60031800001161,0,0,yangzhican_1473736360,42,word,False,False
+the accident scene is a shrine for fans,52.37009625000064,0,0,yangzhican_1473736360,43,word,False,False
+i can still feel your presence,28.935195750003913,0,0,yangzhican_1473736360,44,word,False,False
+do not drink too much,27.33402216702234,0,0,yangzhican_1473736360,45,word,False,False
+traveling requires a lot of fuel,32.134066541009815,0,0,yangzhican_1473736360,46,word,False,False
+watch out for low flying objects,40.052751334005734,0,0,yangzhican_1473736360,47,word,False,False
+space is a high priority,23.983826665993547,0,0,yangzhican_1473736360,48,word,False,False
+well connected with people,22.35190137499012,0,0,yangzhican_1473736360,49,word,False,False
+just what the doctor ordered,26.53450704200077,0,0,yangzhican_1473736360,50,word,False,False
+beautiful paintings in the gallery,108.20580662498833,1,2,yumingke_1473688353,1,char,False,False
+can we play cards tonight,85.63722899998538,0,1,yumingke_1473688353,2,char,False,False
+i can play much better now,84.62082987499889,0,2,yumingke_1473688353,3,char,False,False
+the power of denial,47.63508529099636,0,0,yumingke_1473688353,4,char,False,False
+sing the gospel and the blues,86.03761729199323,0,0,yumingke_1473688353,5,char,False,False
+she wears too much makeup,80.6873739590228,0,1,yumingke_1473688353,6,char,False,False
+you want to eat your cake,81.420757416985,0,0,yumingke_1473688353,7,char,False,False
+that land is owned by the government,140.12577862499165,0,0,yumingke_1473688353,8,char,False,False
+insurance is important for bad drivers,71.70466670798487,0,0,yumingke_1473688353,9,word,False,False
+stiff penalty for staying out late,40.98581912499503,0,0,yumingke_1473688353,10,word,False,False
+space is a high priority,22.85273220797535,0,0,yumingke_1473688353,11,word,False,False
+we missed your birthday,21.617936541006202,0,0,yumingke_1473688353,12,word,False,False
+call for more details,19.117886541993357,0,0,yumingke_1473688353,13,word,False,False
+that land is owned by the government,56.62024183297763,0,2,yumingke_1473688353,14,word,False,False
+in sharp contrast to your words,30.968440624972573,0,0,yumingke_1473688353,15,word,False,False
+i do not fully agree with you,36.252007333998336,0,2,yumingke_1473688353,16,word,False,False
+a quarter of a century,21.918224957975326,0,0,yumingke_1473688353,17,word,False,True
+we missed your birthday,23.91836941699148,0,0,yumingke_1473688353,18,word,False,False
+my mother makes good cookies,41.11903975001769,0,1,yumingke_1473688353,19,word,False,False
+a good response to the question,36.81890212500002,0,0,yumingke_1473688353,20,word,False,False
+this watch is too expensive,23.83487108402187,0,0,yumingke_1473688353,21,word,False,False
+love means many things,21.06818679202115,0,0,yumingke_1473688353,22,word,False,False
+i am wearing a tie and a jacket,52.98685720798676,0,1,yumingke_1473688353,23,word,False,False
+these cookies are so amazing,43.90284837500076,0,0,yumingke_1473688353,24,word,False,False
+my bike has a flat tire,23.66793145801057,0,0,yumingke_1473688353,25,word,False,False
+the imagination of the nation,32.51879183301935,0,1,yumingke_1473688353,26,word,False,False
+you must be getting old,18.267848083982244,0,0,yumingke_1473688353,27,word,False,False
+are you sure you want this,23.068168958008755,0,1,yumingke_1473688353,28,word,False,False
+consequences of a wrong turn,37.20249850000255,0,2,yumingke_1473688353,29,word,False,False
+a much higher risk of getting cancer,33.00211649999255,0,0,yumingke_1473688353,30,word,False,True
+do not feel too bad about it,22.768057709006825,0,0,yumingke_1473688353,31,word,False,False
+he underwent triple bypass surgery,34.76902962499298,0,0,yumingke_1473688353,32,word,False,True
+a good joke deserves a good laugh,33.28524425000069,0,1,yumingke_1473688353,33,word,False,False
+electric cars need big fuel cells,34.5856092920003,0,0,yumingke_1473688353,34,word,False,False
+this is a non profit organization,29.418357457994716,0,0,yumingke_1473688353,35,word,False,False
+physics and chemistry are hard,47.953042875014944,0,0,yumingke_1473688353,36,word,False,False
+that is very unfortunate,26.80174970801454,0,0,yumingke_1473688353,37,word,False,False
+apartments are too expensive,30.035435083002085,1,1,yumingke_1473688353,38,word,False,False
+time to go shopping,21.85157654201612,0,1,yumingke_1473688353,39,word,False,False
+what a monkey sees a monkey will do,37.06896187498933,0,1,yumingke_1473688353,40,word,False,False
+our fax number has changed,26.65146100000129,0,0,yumingke_1473688353,41,word,False,False
+that is a very nasty cut,24.716858583007706,0,0,yumingke_1473688353,42,word,False,False
+questioning the wisdom of the courts,45.10274558301899,0,5,yumingke_1473688353,43,word,False,False
+a much higher risk of getting cancer,50.15310358299757,0,0,yumingke_1473688353,44,word,False,False
+teaching services will help,26.13482562499121,0,0,yumingke_1473688353,45,word,False,False
+the fourth edition was better,29.452054583001882,0,2,yumingke_1473688353,46,word,False,False
+my preferred treat is chocolate,35.76913145801518,0,2,yumingke_1473688353,47,word,False,False
+are you talking to me,27.7174863749824,0,0,yumingke_1473688353,48,word,False,True
+construction makes traveling difficult,32.76872600000934,0,0,yumingke_1473688353,49,word,False,False
+play it again sam,21.86685991700506,0,0,yumingke_1473688353,50,word,False,False
+the first time he tried to swim,26.26867241700529,0,0,yumingke_1473688353,51,word,False,False
+space is a high priority,26.53480904197204,0,1,yumingke_1473688353,52,word,False,False
+no kissing in the library,22.818168792000506,0,0,yumingke_1473688353,53,word,False,False
+the sun rises in the east,23.701682167011313,0,0,yumingke_1473688353,54,word,False,False
+with each step forward,19.134554541989928,0,0,yumingke_1473688353,55,word,False,False
+call for more details,20.651155250001466,1,1,yumingke_1473688353,56,word,False,False
+reading week is just about here,40.52031824999722,0,0,yumingke_1473688353,57,word,False,False
+very reluctant to enter,26.05176445801044,0,0,yumingke_1473688353,58,word,False,False
+do you prefer a window seat,58.35237979097292,1,1,zhongmingyuan_1473840440,1,char,False,False
+with each step forward,40.91926791600417,0,0,zhongmingyuan_1473840440,2,char,False,False
+never mix religion and politics,61.18724395800382,0,0,zhongmingyuan_1473840440,3,char,False,False
+longer than a football field,60.47053829097422,1,1,zhongmingyuan_1473840440,4,char,False,False
+where can my little dog be,50.55314866703702,0,0,zhongmingyuan_1473840440,5,char,False,False
+a problem with the engine,49.70271524996497,0,1,zhongmingyuan_1473840440,6,char,False,False
+for your information only,44.834630875033326,0,0,zhongmingyuan_1473840440,7,char,False,False
+get aboard the ship is leaving,56.10244754102314,0,0,zhongmingyuan_1473840440,8,char,False,False
+stiff penalty for staying out late,28.651725415955298,0,0,zhongmingyuan_1473840440,9,word,False,False
+the union will go on strike,26.035041208029725,0,2,zhongmingyuan_1473840440,10,word,False,False
+a very traditional way to dress,27.400372791977134,0,0,zhongmingyuan_1473840440,11,word,False,False
+players must know all the rules,24.552720375009812,0,0,zhongmingyuan_1473840440,12,word,True,False
+teaching services will help,19.36647512501804,0,0,zhongmingyuan_1473840440,13,word,False,False
+rapidly running short on words,28.336488457978703,0,2,zhongmingyuan_1473840440,14,word,False,False
+learn to walk before you run,27.83527404203778,0,0,zhongmingyuan_1473840440,15,word,False,False
+house with new electrical panel,28.084911957965232,0,0,zhongmingyuan_1473840440,16,word,False,False
+we went grocery shopping,16.634464458969887,0,0,zhongmingyuan_1473840440,17,word,False,False
+i agree with you,12.01594945800025,0,0,zhongmingyuan_1473840440,18,word,False,False
+these cookies are so amazing,25.98494145803852,1,1,zhongmingyuan_1473840440,19,word,False,False
+it should be sunny tomorrow,21.066742458031513,0,0,zhongmingyuan_1473840440,20,word,False,False
+bank transaction was not registered,24.41678645805223,0,0,zhongmingyuan_1473840440,21,word,False,False
+the dow jones index has risen,24.951517166977283,0,0,zhongmingyuan_1473840440,22,word,False,False
+good jobs for those with education,22.40147966699442,0,0,zhongmingyuan_1473840440,23,word,False,False
+fish are jumping,12.767498166998848,0,0,zhongmingyuan_1473840440,24,word,False,False
+apartments are too expensive,18.333055916999,0,1,zhongmingyuan_1473840440,25,word,False,False
+the chamber makes important decisions,29.568549791991245,0,0,zhongmingyuan_1473840440,26,word,False,False
+the dog buried the bone,27.51770891697379,0,0,zhongmingyuan_1473840440,27,word,False,False
+did you see that spectacular explosion,35.550868584017735,0,0,zhongmingyuan_1473840440,28,word,False,False
+all work and no play,13.38402037502965,2,2,zhongmingyuan_1473840440,29,word,False,False
+people blow their horn a lot,25.034979375021067,0,0,zhongmingyuan_1473840440,30,word,False,False
+the treasury department is broke,29.633917125000153,0,2,zhongmingyuan_1473840440,31,word,False,False
+parking tickets can be challenged,21.75131912494544,0,0,zhongmingyuan_1473840440,32,word,False,False
+we accept personal checks,19.93462770798942,0,0,zhongmingyuan_1473840440,33,word,False,False
+toss the ball around,15.284245082992129,0,0,zhongmingyuan_1473840440,34,word,False,False
+the treasury department is broke,32.81866533396533,0,0,zhongmingyuan_1473840440,35,word,False,False
+valid until the end of the year,22.801351667032577,3,3,zhongmingyuan_1473840440,36,word,False,False
+would you like to come to my house,18.751361208036542,4,4,zhongmingyuan_1473840440,37,word,False,False
+reading week is just about here,20.567358125001192,0,0,zhongmingyuan_1473840440,38,word,False,False
+i do not care if you do that,32.95097645802889,0,0,zhongmingyuan_1473840440,39,word,False,False
+the bus was very crowded,16.75120474997675,0,0,zhongmingyuan_1473840440,40,word,False,False
+in sharp contrast to your words,21.084556167013943,0,0,zhongmingyuan_1473840440,41,word,False,False
+the facts get in the way,11.234179874998517,0,0,zhongmingyuan_1473840440,42,word,False,False
+our fax number has changed,20.301018792029936,0,0,zhongmingyuan_1473840440,43,word,False,False
+longer than a football field,20.751299916999415,0,1,zhongmingyuan_1473840440,44,word,False,False
+it is difficult to concentrate,19.117691042018123,0,0,zhongmingyuan_1473840440,45,word,False,False
+express delivery is very fast,18.784597249992657,0,0,zhongmingyuan_1473840440,46,word,False,False
+apartments are too expensive,17.484537333948538,0,0,zhongmingyuan_1473840440,47,word,False,False
+suburbs are sprawling up everywhere,40.70393916696776,5,5,zhongmingyuan_1473840440,48,word,True,False
+historic meeting without a result,23.983650290989317,0,0,zhongmingyuan_1473840440,49,word,False,False
+are you sure you want this,19.184278333967086,0,0,zhongmingyuan_1473840440,50,word,False,False
+the algorithm is too complicated,37.15206449999823,0,0,zmy_1473348517,1,word,False,False
+what you see is what you get,26.433839416600676,1,1,zmy_1473348517,2,word,False,False
+a dog is the best friend of a man,39.43445541660185,0,0,zmy_1473348517,3,word,False,False
+you must be getting old,14.70112079160026,0,0,zmy_1473348517,4,word,False,False
+nothing wrong with his style,21.450372625000455,0,0,zmy_1473348517,5,word,False,False
+do not walk too quickly,18.98343116670003,0,0,zmy_1473348517,6,word,False,False
+i just cannot figure this out,25.901687916699302,0,0,zmy_1473348517,7,word,False,False
+fish are jumping,20.33459595830209,0,0,zmy_1473348517,8,word,False,False
+the facts get in the way,15.93317458330057,0,0,zmy_1473348517,9,word,False,False
+do you like to shop on sunday,28.13485225000113,0,0,zmy_1473348517,10,word,False,False
+toss the ball around,16.884350041600555,1,1,zmy_1473348517,11,word,False,False
+find a nearby parking spot,29.635255041597702,0,1,zmy_1473348517,12,word,False,False
+february has an extra day,18.40126754169978,0,0,zmy_1473348517,13,word,False,False
+valid until the end of the year,25.19993083329973,0,0,zmy_1473348517,14,word,False,False
+only an idiot would lie in court,42.10139641669957,0,1,zmy_1473348517,15,word,False,False
+toss the ball around,17.469224833399494,0,0,zmy_1473348517,16,word,False,False
+sing the gospel and the blues,42.65143758339764,0,0,zmy_1473348517,17,word,False,True
+call for more details,11.267419249998056,0,0,zmy_1473348517,18,word,False,False
+communicate through email,15.7344370833016,0,0,zmy_1473348517,19,word,False,False
+beautiful paintings in the gallery,32.41759820829975,0,1,zmy_1473348517,20,word,False,False
+that land is owned by the government,30.76727195840067,0,0,zmy_1473348517,21,word,False,False
+exceed the maximum speed limit,25.950106541698915,0,0,zmy_1473348517,22,word,False,False
+sit at the front of the bus,19.749874083401664,2,2,zmy_1473348517,23,word,False,False
+the fourth edition was better,21.050039333302266,0,0,zmy_1473348517,24,word,False,False
+please follow the guidelines,23.768248000000312,0,0,zmy_1473348517,25,word,False,False
+love means many things,23.8015892084004,0,0,zmy_1473348517,26,word,False,False
+all together in one big pile,38.2024265832988,0,0,zmy_1473348517,27,word,False,False
+valid until the end of the year,23.48485183340017,0,0,zmy_1473348517,28,word,False,True
+where did you get such a silly idea,23.60157508339762,0,0,zmy_1473348517,29,word,False,False
+you must make an appointment,26.103054416700616,0,0,zmy_1473348517,30,word,False,False
+vote according to your conscience,40.25240470830249,0,1,zmy_1473348517,31,word,False,False
+the king sends you to the tower,25.133365458397748,3,3,zmy_1473348517,32,word,False,False
+do not drink too much,15.699734583300597,0,0,zmy_1473348517,33,word,False,False
+a quarter of a century,12.432901000000129,0,0,zmy_1473348517,34,word,False,False
+the collapse of the roman empire,33.11851058329921,0,1,zmy_1473348517,35,word,False,False
+breathing is difficult,14.682878041698132,0,0,zmy_1473348517,36,word,False,False
+the imagination of the nation,19.868065791597473,0,0,zmy_1473348517,37,word,False,False
+the postal service is very slow,27.650581083300494,0,0,zmy_1473348517,38,word,False,False
+we better investigate this,18.367823666601907,0,0,zmy_1473348517,39,word,False,False
+the imagination of the nation,17.96817345839736,0,0,zmy_1473348517,40,word,False,False
+historic meeting without a result,27.750702583300153,0,0,zmy_1473348517,41,word,False,False
+the kids are very excited,20.13457466660111,0,0,zmy_1473348517,42,word,False,False
+i cannot believe i ate the whole thing,28.535027791698667,0,0,zmy_1473348517,43,word,False,False
+this watch is too expensive,22.334600291698735,0,0,zmy_1473348517,44,word,False,False
+where did you get that tie,43.25258725000094,9,10,zmy_1473348517,45,word,False,False
+one heck of a question,52.886281083297945,0,0,zmy_1473348517,46,word,False,False
+a glance in the right direction,25.084702625001228,0,0,zmy_1473348517,47,word,False,False
+sad to hear that news,15.333559124999738,0,0,zmy_1473348517,48,word,False,False
+all together in one big pile,27.983765583398053,0,0,zmy_1473348517,49,word,False,False
+the treasury department is broke,24.83508775000155,4,4,zmy_1473348517,50,word,False,False

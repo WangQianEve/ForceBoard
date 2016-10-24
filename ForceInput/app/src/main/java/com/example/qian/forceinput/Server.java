@@ -32,7 +32,6 @@ public class Server implements Runnable {
     private final int MAX_UDP_DATAGRAM_LEN = 2048;
     private static ServerSocket serverSocket = null;
     private static Socket socket = null;
-//    private static DatagramSocket ds = null;
     private static String content = "";
     private TextView input;
     private ImageView imginput;
@@ -143,30 +142,48 @@ public class Server implements Runnable {
             imginput=(ImageView)linearLayout.getChildAt(old-1);
             imginput.setBackgroundColor(Color.DKGRAY);
         }
+        if(old>1){
+            imginput=(ImageView)linearLayout.getChildAt(old-2);
+            imginput.setBackgroundColor(Color.DKGRAY);
+        }
+        if(old>2){
+            imginput=(ImageView)linearLayout.getChildAt(old-3);
+            imginput.setBackgroundColor(Color.DKGRAY);
+        }
+        //
         if(old<32){
             imginput=(ImageView)linearLayout.getChildAt(old+1);
             imginput.setBackgroundColor(Color.DKGRAY);
         }
+        if(old<31){
+            imginput=(ImageView)linearLayout.getChildAt(old+2);
+            imginput.setBackgroundColor(Color.DKGRAY);
+        }
+        if(old<30){
+            imginput=(ImageView)linearLayout.getChildAt(old+3);
+            imginput.setBackgroundColor(Color.DKGRAY);
+        }
+        //
         if(nw<33){
             imginput=(ImageView)linearLayout.getChildAt(nw);
-            imginput.setBackgroundColor(0xAACC3010);
+            imginput.setBackgroundColor(0xAA30CC10);
         } else if(nw==100){
             imginput=(ImageView)linearLayout.getChildAt(32);
             imginput.setBackgroundColor(Color.RED);
         }
-        if(nw<31){
+        if(nw<32){
             imginput=(ImageView)linearLayout.getChildAt(nw+1);
-            imginput.setBackgroundColor(0xAACC3010);
+            imginput.setBackgroundColor(0xAA30CC10);
         }
         if(nw>0&&nw!=100){
             imginput=(ImageView)linearLayout.getChildAt(nw-1);
-            imginput.setBackgroundColor(0xAACC3010);
+            imginput.setBackgroundColor(0xAA30CC10);
         }
     }
     void refreshCand(int selected){
         String[] candidate=cand.split(",");
         GridLayout gridLayout;
-        int row=selected/3;//0
+        int row=selected/3;
         if(row==candidate.length/3 && row>0) row--;
         try{
             for(int i=0; i<6; ++i){

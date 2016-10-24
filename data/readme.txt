@@ -1,6 +1,6 @@
-0/1/2.xls是每个被试的数据
-	从左至右26个字母，每个字母6列（3组时间-力度与标准力度的偏差）
-user.xls是被试的整合
-	排列相同
-choose.xls是选择的时间（从最后一个字母输入结束到最后一个tap结束）
-	
+exp2处理流程
+913t制造modify-t的两个文件夹
+exp2-fetch 从modpath到mod.csv
+exp2 提取_tasks到modify/
+	修改walk路径，给出两个error的数据
+912-2 从mod到mod2
